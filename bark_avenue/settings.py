@@ -34,6 +34,7 @@ ALLOWED_HOSTS = [
     '8000-jkirkby95-bark-avenue-znwbbazzzx.us2.codeanyapp.com',
     'bark-avenue.herokuapp.com',
     'local',
+    'bark-avenue-85be2b7275f8.herokuapp.com',
 ]
 
 
